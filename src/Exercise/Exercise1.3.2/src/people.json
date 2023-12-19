@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Anderson",
+    "address": "321 Broad Street, Metroville",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Sophia Clark",
+    "address": "567 Maple Avenue, Grovetown",
+    "department": "Design"
+  },
+  {
+    "id": 3,
+    "name": "William Roberts",
+    "address": "876 Oakwood Drive, Summit City",
+    "department": "Research"
+  },
+  {
+    "id": 4,
+    "name": "Olivia Taylor",
+    "address": "234 Cedar Lane, Lakeside",
+    "department": "Operations"
+  }
+]
